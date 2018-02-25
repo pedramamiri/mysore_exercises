@@ -4,7 +4,7 @@ Inom astangha yoga är mysore att man gör en serie av övningar i sitt egna tem
 
 Om inget annat står så skapa en ny fil för varje uppgift, ni kan clona detta repo så har ni en egen readme.md att utgå ifrån.
 
-## 1 
+## 1 	U+2714 
 Skriv en funktion med namnet `make_paragraph` som skriver ut en sträng som HTML-elementet \<p>.
 Exempel: "hej" ska skrivas ut som "\<p>hej\</p>".
 Funktionen ska ha en parameter, som är strängen som ska skrivas ut, och den ska inte returnera något. 
