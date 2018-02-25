@@ -4,15 +4,15 @@ Inom astangha yoga är mysore att man gör en serie av övningar i sitt egna tem
 
 Om inget annat står så skapa en ny fil för varje uppgift, ni kan clona detta repo så har ni en egen readme.md att utgå ifrån.
 
-## 1 	U+2714 
+## 1 ✔️
 Skriv en funktion med namnet `make_paragraph` som skriver ut en sträng som HTML-elementet \<p>.
 Exempel: "hej" ska skrivas ut som "\<p>hej\</p>".
 Funktionen ska ha en parameter, som är strängen som ska skrivas ut, och den ska inte returnera något. 
 
-## 2
+## 2 ✔️
 Funktionen `make_paragraph` är lite begränsad. Tänk om vi vill göra h1-taggar? Eller h2, h3 osv. Skriv en ny funktion med namnet `make_heading`. Funktionen behöver veta strängen som ska skrivas ut och vilken heading det ska vara. Den behöver alltså två argument.
 
-## 3
+## 3 ✔️
 Nu har vi två funktioner som vi kan använda för att skapa HTML-paragrafer och headings. Men det blir väldigt många funktioner om vi ska ha en funktion för varje möjligt HTML-element.
 
 Vi behöver en funktion som kan göra flera sorters element. Skriv en funktion `make_tag` som kan göra alla sorters HTML-element.
